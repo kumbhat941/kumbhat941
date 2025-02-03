@@ -1,6 +1,6 @@
 👋 Hi, I'm Chirag Kumbhat!
 🔬 Current Project
-🔹 In-situ Image Analysis in Glass Technology (Master’s Thesis)
+🔹 I have build a project on image acquisition and post processing for glass technology
 
 📖 Currently Learning
 🔹 Machine Learning & Image Processing
